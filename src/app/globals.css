@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.rotate-right {
+  transform: rotate(10deg);
+}
+
+@media (max-width: 1024px) {
+  .rotate-right {
+    transform: rotate(0deg);
+  }
+}
