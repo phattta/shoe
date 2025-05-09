@@ -17,7 +17,7 @@ export default function ProductCard() {
                     <div className="bg-white shadow-md rounded-lg overflow-hidden">
                         <div className="relative">
                             <Image
-                                src="/product1.jpg"
+                                src="/ProductCard1.avif"
                                 alt="Product"
                                 className="w-full h-72 object-cover"
                                 width={500}

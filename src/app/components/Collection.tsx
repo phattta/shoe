@@ -28,7 +28,7 @@ export default function Collection() {
                         <div key={index} className="bg-white shadow-lg rounded-lg overflow-hidden transform transition duration-300 hover:scale-105">
                             <div className="relative">
                                 <Image
-                                    src="/ProductCard6.avif"
+                                    src="/ProductCard2.avif"
                                     alt="Handwoven Fabric Sandals"
                                     className="w-full h-72 object-cover"
                                     width={500}
